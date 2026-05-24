@@ -36,7 +36,10 @@ div[role="button"][class="x1n2onr6 x14yjl9h xudhj91 x18nykt9 xww2gxu"] /* busine
 div.x10l6tqk.x13vifvy.x17qophe.xh8yej3.xiqx3za.x6ikm8r.x10wlt62.x1knukwh.xihgre1 /* business profile banner in details panel */,
 div.x15e7hw7 /* business profile banner in catalog list */,
 div.x1n2onr6.x1oysuqx.x1m3v4wt.x1gryazu.xkrivgy /* group profile pic in details panel */,
-div.overlay:not([data-animate-media-viewer]) ._ajuf._ajuh > div /* user/group profile pic overlay view */
+div.overlay:not([data-animate-media-viewer]) ._ajuf._ajuh > div /* user/group profile pic overlay view */,
+
+/* updated wa version */
+div.xeusxvb
 {
   filter: blur(var(--pp-lg-blur)) grayscale(1);
   transition-delay: 0s;
@@ -80,7 +83,8 @@ div.x10l6tqk.x13vifvy.x17qophe.xh8yej3.xiqx3za.x6ikm8r.x10wlt62.x1knukwh.xihgre1
 div.x15e7hw7:hover /* business profile banner in catalog list */,
 div.x1n2onr6.x1oysuqx.x1m3v4wt.x1gryazu.xkrivgy:hover /* group profile pic in details panel */,
 div.overlay:not([data-animate-media-viewer]) ._ajuf._ajuh > div:hover /* user/group profile pic overlay view */,
-div.x1okw0bk.x1w0mnb:hover /* user profile pic in starred message list */
+div.x1okw0bk.x1w0mnb:hover /* user profile pic in starred message list */,
+div.xeusxvb:hover
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0.3s;
